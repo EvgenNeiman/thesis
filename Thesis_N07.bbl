@@ -1,0 +1,805 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+
+\bibitem{AdArovKr71ru}
+\selectlanguageifdefined{english}
+\BibEmph{Адамян В.М.} Аналитические свойства пар Шмидта ганкелева оператора и
+  обобщенная задача Шура--Такаги~/ В.М.~Адамян, Д.З.~Аров, М.Г.~Крейн~//
+  \BibEmph{Матем. сб.} "---
+\newblock 1971. "---
+\newblock Vol.~86. "---
+\newblock P.~34--75.
+
+\bibitem{Arov93ru}
+\selectlanguageifdefined{english}
+\BibEmph{Аров~Д.З.} Обобщенная бикасательная проблема Каратеодори-Неванлинны-Пика
+  и (j; j0)-внутренние матриц-функции~/ Д.З.~Аров~// \BibEmph{Изв. Рос.
+  Акад. Наук, Сер. Матем.} "---
+\newblock 1993. "---
+\newblock Vol.~57, no.~1. "---
+\newblock P.~121--135.
+
+\bibitem{ArovGro83ru}
+\selectlanguageifdefined{english}
+\BibEmph{Аров~Д.З.} Матрицы рассеяния в теории расширений изометрических
+  операторов~/ Д.З.~Аров, Л.З.~Гроссман~// \BibEmph{ДАН СССР}. "---
+\newblock 1983. "---
+\newblock Vol. 270, no.~1. "---
+\newblock P.~17--20.
+
+\bibitem{Akh61ru}
+\selectlanguageifdefined{english}
+\BibEmph{Ахиезер~Н.И.} Классическая проблема моментов~/ Н.И.~Ахиезер. "---
+\newblock Москва~: Государственное издательство физико-математической
+  литературы, 1961.
+
+\bibitem{AkhGlaz65ru}
+\selectlanguageifdefined{english}
+\BibEmph{Ахиезер~Н.И.} Теория линейных операторов в гильбертовом пространстве
+ ~/ Н.И.~Ахиезер, И.М.~Глазман. "---
+\newblock Москва~: Наука, 1966.
+
+\bibitem{Birman56ru}
+\selectlanguageifdefined{english}
+\BibEmph{Бирман~М.Ш.} Самосопряжённые расширения положительно определённых
+  операторов~/ М.Ш.~Бирман~// \BibEmph{Мат. Сб.} "---
+\newblock 1956. "---
+\newblock Vol.~38. "---
+\newblock P.~431--450.
+
+\bibitem{Bruk76ru}
+\selectlanguageifdefined{english}
+\BibEmph{Брук~В.М.} Об одном классе краевых задач со спектральным параметром в
+  граничном условии~/ В.М.~Брук~// \BibEmph{Мат. сб.} "---
+\newblock 1976. "---
+\newblock Vol. 100. "---
+\newblock P.~210--216.
+
+\bibitem{Vishik52ru}
+\selectlanguageifdefined{english}
+\BibEmph{Вишик~М.И.} Обобщённые граничные задачи для эллиптических
+  дифференциальных уравнений~/ М.И.~Вишик~// \BibEmph{Труды Моск. Мат.
+  Общ.} "---
+\newblock 1952. "---
+\newblock Vol.~1. "---
+\newblock P.~187--246.
+
+\bibitem{GG77ru}
+\selectlanguageifdefined{english}
+\BibEmph{Горбачук~В.И.} Граничные значения решений некоторых классов
+  дифференциальных уравнений~/ В.И.~Горбачук, М.Л.~Горбачук~//
+  \BibEmph{Матем. сб.} "---
+\newblock 1977. "---
+\newblock Vol. 102, no.~1. "---
+\newblock P.~124---150.
+
+\bibitem{Gorb71ru}
+\selectlanguageifdefined{english}
+\BibEmph{Горбачук~М.Л.} Самосопряженные граничные задачи для дифференциального
+  уравнения второго порядка с неограниченным операторным коэффициентом~/
+  М.Л.~Горбачук~// \BibEmph{Функц. анализ и его прил.} "---
+\newblock 1971. "---
+\newblock Vol.~5. "---
+\newblock P.~10--21.
+
+\bibitem{Gof63ru}
+\selectlanguageifdefined{english}
+\BibEmph{Гофман~К.} Банаховы пространства аналитических функций~/
+  К.~Гофман. "---
+\newblock М.~: Изд. ин. лит., 1963.
+
+\bibitem{GohSig71}
+\selectlanguageifdefined{english}
+\BibEmph{Гохберг~И.Ц.} Операторное обобщение теоремы о логарифмическом вычете
+ ~/ И.Ц.~Гохберг, Е.И.~Сигал~// \BibEmph{Математический сборник}. "---
+\newblock 1971. "---
+\newblock Vol. 126, no.~4. "---
+\newblock P.~607--629.
+
+\bibitem{DM85ru}
+\selectlanguageifdefined{english}
+\BibEmph{Деркач~В.А.} Функция Вейля эpмитова опеpатоpа и ее связь с
+  характеристической функцией~/ В.А.~Деркач, М.М.~Маламуд. "---
+\newblock Донецк~: Донецкий физ.-тех. ин-ут АН УССР, 1985. "---
+\newblock Vol.~9. "---
+\newblock P.~52.
+
+\bibitem{KKhU86ru}
+\selectlanguageifdefined{english}
+\BibEmph{Кацнельсон~В.Е.} Абстрактная интерполяционная задача и теория
+  расширений изометрических операторов~/ В.Е.~Кацнельсон, А.Я.~Хейфец,
+  П.М.~Юдицкий~// \BibEmph{Операторы в функциональном пространстве и проблемы
+  теории функций}. "---
+\newblock 1986. "---
+\newblock Vol.~1. "---
+\newblock P.~83--96.
+
+\bibitem{KovP74ru}
+\selectlanguageifdefined{english}
+\BibEmph{Ковалишина~И.В.} Индефинитная метрика в проблеме Неванлинны-Пика~/
+  И.В.~Ковалишина, В.П.~Потапов~// \BibEmph{ДАН АрмССР}. "---
+\newblock 1974. "---
+\newblock Vol.~59, no.~1. "---
+\newblock P.~17--22.
+
+\bibitem{Kochubey75ru}
+\selectlanguageifdefined{english}
+\BibEmph{Кочубей~А.Н.} О расширениях симметрических операторов и симметрических
+  бинарных отношений~/ А.Н.~Кочубей~// \BibEmph{Мат. Заметки}. "---
+\newblock 1975. "---
+\newblock Vol.~1. "---
+\newblock P.~41--48.
+
+\bibitem{Kochubey80ru}
+\selectlanguageifdefined{english}
+\BibEmph{Кочубей~А.Н.} Характеристические функции симметpических опеpатоpов и их расшиpений
+~/ А.Н.~Кочубей~// \BibEmph{Изв. АН Арм. ССР}. "---
+\newblock 1980. "---
+\newblock Vol.~15, no.~3. "---
+\newblock P.~219--232.
+
+\bibitem{Kr46ru}
+\selectlanguageifdefined{english}
+\BibEmph{Крейн~М.Г.} О резольвентах эрмитовых операторов с индексами дефекта
+  $(m,m)$~/ М.Г.~Крейн~// \BibEmph{Докл. Акад. Наук. СССР}. "---
+\newblock 1946. "---
+\newblock Vol.~52, no.~8. "---
+\newblock P.~657--660.
+
+\bibitem{Kr47ru}
+\selectlanguageifdefined{english}
+\BibEmph{Крейн~М.Г.} Теория самосопряжённых расширений полуограниченных эрмитовых
+  операторов и приложения~/ М.Г.~Крейн~// \BibEmph{Мат. Сб.} "---
+\newblock 1947. "---
+\newblock Vol.~21. "---
+\newblock P.~365--404.
+
+\bibitem{Kr49ru}
+\selectlanguageifdefined{english}
+\BibEmph{Крейн~М.Г.} Фундаментальные аспекты теории представлений эрмитовых
+  операторов с индексами дефекта $(m,m)$~/ М.Г.~Крейн~// \BibEmph{Укр.
+  Матем. Журнал}. "---
+\newblock 1949. "---
+\newblock Vol.~2. "---
+\newblock P.~3--66.
+
+\bibitem{KL71ru}
+\selectlanguageifdefined{english}
+\BibEmph{Крейн~М.Г.} О дефектных подпространствах и обобщенных резольвентах
+  эрмитова оператора в пространстве~$\Pi_\kappa$/ М.Г.~Крейн, Г.К.~Лангер~//
+  \BibEmph{Функц. анализ и его прил.} "---
+\newblock 1971. "---
+\newblock Vol.~5, no.~3. "---
+\newblock P.~54---69.
+
+\bibitem{KNaim36ru}
+\selectlanguageifdefined{english}
+\BibEmph{Крейн~М.Г.} Метод симметрических и эрмитовых форм в теории отделения
+  корней алгебраических уравнений~/ М.Г.~Крейн, М.А.~Наймарк. "---
+\newblock Харьков~: [s.\ n.], 1936. "---
+\newblock P.~42.
+
+\bibitem{KSaak66ru}
+\selectlanguageifdefined{english}
+\BibEmph{Крейн~М.Г.} Некоторые новые результаты в теории резольвентных матриц
+ ~/ М.Г.~Крейн, Ш.Н.~Саакян~// \BibEmph{Доклады Академии наук СССР}. "---
+\newblock 1966. "---
+\newblock Vol. 169, no.~1. "---
+\newblock P.~657--660.
+
+\bibitem{Neim08ru}
+\selectlanguageifdefined{english}
+\BibEmph{Нейман~Е.В.} Аналог теоремы Руше в обощённом классе Смирнова~/
+  Е.В.~Нейман~// \BibEmph{Труды института прикладной математики и механики}.
+  "---
+\newblock 2008. "---
+\newblock Vol.~17. "---
+\newblock P.~148--153.
+
+\bibitem{Nik80ru}
+\selectlanguageifdefined{english}
+\BibEmph{Никольский~Н.К.} Лекции об операторе сдвига~/ Н.К.~Никольский.
+  "---
+\newblock М. Наука.~: Главная редакция физико-математической литературы, 1980.
+
+\bibitem{Nud77ru}
+\selectlanguageifdefined{english}
+\BibEmph{Нудельман~А.А.} Об одной проблеме типа проблемы моментов~/
+  А.А.~Нудельман~// \BibEmph{ДАН СССР}. "---
+\newblock 1977. "---
+\newblock Vol. 233, no.~5. "---
+\newblock P.~792--795.
+
+\bibitem{Nud81ru}
+\selectlanguageifdefined{english}
+\BibEmph{Нудельман~А.А.} Об одном обобщении классических интерполяционных задач
+ ~/ А.А.~Нудельман~// \BibEmph{ДАН СССР}. "---
+\newblock 1981. "---
+\newblock Vol. 256, no.~4. "---
+\newblock P.~790--793.
+
+\bibitem{Pot55ru}
+\selectlanguageifdefined{english}
+\BibEmph{Потапов~В.П.} Мультипликативная структура j-несжимающих матриц-функций
+ ~/ В.П.~Потапов~// \BibEmph{Труды Моск. мат. заметок}. "---
+\newblock 1955. "---
+\newblock Vol.~4. "---
+\newblock P.~125--236.
+
+\bibitem{SNF70ru}
+\selectlanguageifdefined{english}
+\BibEmph{Секефальви-Надь~Б.} Гармонический анализ операторов в гильбертовом
+  пространстве~/ Б.~Секефальви-Надь, Ч.~Фояш. "---
+\newblock М.~: Мир, 1970.
+
+\bibitem{RBe69ru}
+\selectlanguageifdefined{english}
+\BibEmph{Рофе-Бекетов~Ф.С.} Самосопряжённые расширения дифференциальных
+  операторов в пространстве вектор-функций~/ Ф.С.~Рофе-Бекетов~//
+  \BibEmph{Теор. Функц., Функц. Анал. и Прилож.} "---
+\newblock 1969. "---
+\newblock Vol.~8. "---
+\newblock P.~3--24.
+
+\bibitem{Fed72ru}
+\selectlanguageifdefined{english}
+\BibEmph{Федчина~И.П.} Критерий разрешимости касательной проблемы Неванлинны-Пика
+ ~/ И.П.~Федчина~// \BibEmph{Матем. Исследов}. "---
+\newblock 1972. "---
+\newblock Vol.~26. "---
+\newblock P.~213--226.
+
+\bibitem{Khe89ru}
+\selectlanguageifdefined{english}
+\BibEmph{Хейфец~А.Я.} Теорема Неванлинны-Адамяна-Арова-Крейнл в полуопределённом
+  случае~/ А.Я.~Хейфец~// \BibEmph{Теор. Функц., Функц. Анал. и их
+  приложен.} "---
+\newblock 1989. "---
+\newblock Vol.~53. "---
+\newblock P.~128--137.
+
+\bibitem{Khe90Aru}
+\selectlanguageifdefined{english}
+\BibEmph{Хейфец А} Обобщенная бикасательная задача Шура--Неванлинны--Пика и
+  связанное с нею равенство Парсеваля~/ А.~Хейфец~// \BibEmph{Теор.
+  Функц., Функц. Анал. и их приложен.} "---
+\newblock 1990. "---
+\newblock Vol.~54. "---
+\newblock P.~89--96.
+
+\bibitem{Shab69ru}
+\selectlanguageifdefined{english}
+\BibEmph{Шабат~Б.В.} Введение в комплексный анализ~/ Б.В.~Шабат. "---
+\newblock М.~: Наука, 1969.
+
+\bibitem{Yud83ru}
+\selectlanguageifdefined{english}
+\BibEmph{Юдицкий~П.} Задача о лифтинге~/ П.~Юдицкий. "---
+\newblock [S.\ l.]~: Депонирована в Укр.НИИНТИ, 1983. "---
+\newblock Vol.~311.
+
+\bibitem{ADRS97}
+\selectlanguageifdefined{english}
+Schur functions, operator colligations, and reproducing kernel Pontryagin
+  spaces~/ D.~Alpay, A.~Dijksma, J.~Rovnyak, H.~S.~V.~de~Snoo~//
+  \BibEmph{Oper. Theory: Adv. Appl.} "---
+\newblock 1997. "---
+\newblock Vol.~96.
+
+\bibitem{AlpDym84}
+\selectlanguageifdefined{english}
+\BibEmph{Alpay~D.} Hilbert spaces of analytic functions, inverse scattering
+  and operator models~/ D.~Alpay, H.~Dym~// \BibEmph{Integral Equations
+  and Operator Theory}. "---
+\newblock 1984. "---
+\newblock Vol.~7. "---
+\newblock P.~589---641.
+
+\bibitem{AlpGohb05}
+\selectlanguageifdefined{english}
+\BibEmph{Alpay~D.} Pairs of selfadjoint operators and their invariants
+ ~/ D.~Alpay, I.~Gohberg~// \BibEmph{St. Petersburg Math. J.} "---
+\newblock 2005. "---
+\newblock Vol.~16, no.~1. "---
+\newblock P.~59--104.
+
+\bibitem{AmiD99}
+\selectlanguageifdefined{english}
+\BibEmph{Amirshadyan~A.} Interpolation in generalized Nevanlinna and Stieltjes
+  classes~/ A.~Amirshadyan, V.~Derkach~// \BibEmph{J.~Ope\-rator
+  Theory}. "---
+\newblock 1999. "---
+\newblock Vol.~42, no.~1. "---
+\newblock P.~145--188.
+
+\bibitem{Arens61}
+\selectlanguageifdefined{english}
+\BibEmph{Amirshadyan~A.} Operational calculus of linear relations
+~/ R.~Arens~// \BibEmph{Pacific
+  J. Math.}. "---
+\newblock 1961. "---
+\newblock Vol.~11 "---
+\newblock P.~9--23.
+
+\bibitem{ArovDym08}
+\selectlanguageifdefined{english}
+\BibEmph{Arov~D.} J-Contractive matrix valued functions and related topics
+ ~/ D.Z~Arov, ~H.Dym. "---
+\newblock Cambrige: Cambridge University Press~: Encyclopedia of Mathematics
+  and its Applications, 2008. "---
+\newblock P.~575.
+
+\bibitem{Baid13}
+\selectlanguageifdefined{english}
+\BibEmph{Baidiuk~D.} Abstract interpolation problem in generalized Schur
+  classes~/ D.~Baidiuk~// \BibEmph{arXiv:1403.4038}. "---
+\newblock 2014. "---
+\newblock P.~1--18.
+
+\bibitem{BGR90}
+\selectlanguageifdefined{english}
+\BibEmph{Ball~J.} Interpolation of rational matrix functions~/ J.~Ball,
+  I.~Gohberg, L.~Rodman. 45. "---
+\newblock Birkh\"auser Verlag, Basel~: Operator Theory: Advances and
+  Applications, 1990.
+
+\bibitem{BallHel86}
+\selectlanguageifdefined{english}
+\BibEmph{Ball~J.} Interpolation problems of Pick--Nevanlinna and Loewner types
+  for meromorphic matrix functions~/ J.A.~Ball, J.W.~Helton~//
+  \BibEmph{Integr. Equat. Oper. Th.} "---
+\newblock 1986. "---
+\newblock Vol.~9. "---
+\newblock P.~155--203.
+
+\bibitem{BTrent00}
+\selectlanguageifdefined{english}
+\BibEmph{Ball~J.} The abstract Interpolation problem and commutant lifting: a
+  coordinate-free approach~/ J.~Ball, T.~Trent. "---
+\newblock Birkh\"auser Verlag, Basel~: Operator Theory: Advances and
+  Applications, 2000. "---
+\newblock Vol.~115.
+
+\bibitem{BDSH11}
+\selectlanguageifdefined{english}
+A realization theorem for generalized Nevanlinna families~/ J.~Behrndt,
+  V.A.~Derkach, S.~Hassi, H.S.V.~de~Snoo~// \BibEmph{Oper. Matrices}. "---
+\newblock 2011. "---
+\newblock Vol.~5, no.~4. "---
+\newblock P.~679---706.
+
+\bibitem{BehHS08}
+\selectlanguageifdefined{english}
+\BibEmph{Behrndt~J.} Functional models for Nevanlinna families~/
+  J.~Behrndt, S.~Hassi, H.S.V.~de~Snoo~// \BibEmph{Opuscula Math.} "---
+\newblock 2008. "---
+\newblock Vol.~28. "---
+\newblock P.~233--245.
+
+\bibitem{Bolot04}
+\selectlanguageifdefined{english}
+\BibEmph{Bolotnikov~V.} On the Carath\'{e}odory-Fej\'{e}r interpolation
+  problem for generalized Schur functions~/ V.~Bolotnikov~//
+  \BibEmph{Int. Eq. Oper. Th.} "---
+\newblock 2004. "---
+\newblock Vol.~50. "---
+\newblock P.~9--41.
+
+\bibitem{BolotKheRod04}
+\selectlanguageifdefined{english}
+\BibEmph{Bolotnikov~V.} Nevanlinna-pick interpolation: Pick matrices have
+  bounded number of negative eigenvalues~/ V.~Bolotnikov, A.~Kheifets,
+  L.~Rodman~// \BibEmph{Proc. Amer. Math. Soc.} "---
+\newblock 2004. "---
+\newblock Vol. 132. "---
+\newblock P.~769--780.
+
+\bibitem{DHMS06}
+\selectlanguageifdefined{english}
+Boundary relations and their Weyl families~/ V.A.~Derkach, S.~Hassi,
+  M.M.~Malamud, H.S.V.~de~Snoo~// \BibEmph{Trans. Amer. Math. Soc.} "---
+\newblock 2006. "---
+\newblock Vol. 358. "---
+\newblock P.~5351--5400.
+
+\bibitem{Bra61}
+\selectlanguageifdefined{english}
+\BibEmph{de Branges~L.} Some Hilbert spaces of entire functions~/
+  L.de~Branges~// \BibEmph{Bull. Amer. Math. Soc}. "---
+\newblock 1961. "---
+\newblock Vol.~67. "---
+\newblock P.~129--134.
+
+\bibitem{Bra77}
+\selectlanguageifdefined{english}
+\BibEmph{de Branges~L.} Perturbation theory~/ L.de~Branges~// \BibEmph{J.
+  Math. Anal.Appl.} "---
+\newblock 1977. "---
+\newblock Vol.~57. "---
+\newblock P.~393--415.
+
+\bibitem{BranRovn66}
+\selectlanguageifdefined{english}
+\BibEmph{de~Branges~L.} Canonical models in quantum scattering theory~/
+  L.~de~Branges, J.~Rovnyak~// \BibEmph{Perturbation Theory and its Application
+  in Quantum Mechanics}. "---
+\newblock 1966. "---
+\newblock P.~295---391. "---
+\newblock Wiley, New York.
+
+\bibitem{DD04}
+\selectlanguageifdefined{english}
+\BibEmph{Derevyagin~M.} Spectral problems for generalized Jacobi
+  matrices~/ M.~Derevyagin, ~V.Derkach~// \BibEmph{Linear Algebra Appl.}
+  "---
+\newblock 2004. "---
+\newblock Vol. 382. "---
+\newblock P.~1--24.
+
+\bibitem{DD07}
+\selectlanguageifdefined{english}
+\BibEmph{Derevyagin~M.} On the convergence of Pade approximations for
+  generalized Nevanlinna functions~/ M.~Derevyagin, ~V.Derkach~//
+  \BibEmph{Trans Moscow Math. Soc.} "---
+\newblock 2007. "---
+\newblock Vol.~68. "---
+\newblock P.~1--44.
+
+\bibitem{D99}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} On generalized resolvents of Hermitian relations in Krein
+  spaces~/ V.~Derkach~// \BibEmph{Math.Nachr.} "---
+\newblock 1999. "---
+\newblock Vol.~97, no.~5. "---
+\newblock P.~4420--4460.
+
+\bibitem{D01}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} On indefinite abstract interpolation problem~/
+  V.~Derkach~// \BibEmph{Methods Funct. Anal. Topology}. "---
+\newblock 2001. "---
+\newblock Vol.~7, no.~4. "---
+\newblock P.~87--100.
+
+\bibitem{D09}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} Abstract interpolation problem in Nevanlinna classes
+ ~/ V.~Derkach~// \BibEmph{Modern Analysis and Applications: Mark
+  Kre\u{\i}n Centenary Conference, vol.~1 -- Operator Theory and Related
+  Topics}. "---
+\newblock 2009. "---
+\newblock Vol. 190. "---
+\newblock P.~197--236.
+
+\bibitem{DDym09}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} On linear fractional transformations associated with
+  generalized j-inner matrix functions~/ V.~Derkach, H.~Dym~//
+  \BibEmph{Integ. Eq. Oper. Th.} "---
+\newblock 2009. "---
+\newblock Vol.~65. "---
+\newblock P.~1--50.
+
+\bibitem{DDym10}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} On bitangential interpolation in generalized Schur
+  classes~/ V.~Derkach, H.~Dym~// \BibEmph{Complex An. and Oper. Th.}
+  "---
+\newblock 2010. "---
+\newblock Vol.~4. "---
+\newblock P.~701--765.
+
+\bibitem{DDym14}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} A generalized Schur-Takagi interpolation problem~/
+  V.~Derkach, H.~Dym~// \BibEmph{Integral Equations and Operator Theory}. "---
+\newblock 2014. "---
+\newblock Vol.~2, no.~80. "---
+\newblock P.~165--227.
+
+\bibitem{DHS99}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} Operator models associated with Kac subclasses of
+generalized Nevanlinna functions
+ ~/ V.~Derkach, S.~Hassi, and H.S.V.~de~Snoo~// \BibEmph{Methods of Functional Analysis and Topology}. "---
+\newblock 1999. "---
+\newblock Vol. 5. "---
+\newblock P.~65--87.
+
+\bibitem{DHS01}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} Generalized Nevanlinna functions with polynomial
+  asymptotic behaviour at infinity and regular perturbations~/
+  V.A.~Derkach, S.~Hassi, H.S.V.~de~Snoo~// \BibEmph{Operator Theory: Adv. and
+  Appl}. "---
+\newblock 2001. "---
+\newblock Vol. 122. "---
+\newblock P.~169--189. "---
+\newblock Birkhauser Verlag Basel.
+
+\bibitem{DHS12}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} Truncated moment problems in the class of generalized
+  Nevanlinna functions~/ V.A.~Derkach, S.~Hassi,
+  H.S.V.~de~Snoo~// \BibEmph{Math. Nachr.} "---
+\newblock 2012. "---
+\newblock Vol. 285, no. 14--15. "---
+\newblock P.~1741--1769.
+
+\bibitem{DM87}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} On Weyl function and Hermitian operators
+  with gaps~/ V.~Derkach, M.~Malamud~// \BibEmph{Doklady Akad. Nauk
+  SSSR}. "---
+\newblock 1987. "---
+\newblock Vol. 293, no.~5. "---
+\newblock P.~1041--1046.
+
+\bibitem{DM95}
+\selectlanguageifdefined{english}
+\BibEmph{Derkach~V.} The extension theory of Hermitian operators and
+  the moment problem~/ V.~Derkach, M.~Malamud~// \BibEmph{J.of
+  Math.Sci.} "---
+\newblock 1995. "---
+\newblock Vol.~73, no.~2. "---
+\newblock P.~141--242.
+
+\bibitem{DLLS00}
+\selectlanguageifdefined{english}
+A factorization result for generalized Nevanlinna functions of the class
+  $N_\kappa$~/ A.~Dijksma, H.~Langer, A.~Luger, Yu.~Shondin~//
+  \BibEmph{Integr. Equat. Oper. Theory}. "---
+\newblock 2000. "---
+\newblock Vol.~36. "---
+\newblock P.~121--125. "---
+\newblock Birkh\"{a}user Verlag Basel.
+
+\bibitem{Dym89}
+\selectlanguageifdefined{english}
+\BibEmph{Dym~H.} $J$ contractive matrix functions, reproducing kernel Hilbert
+  spaces and interpolation~/ H.~Dym. "---
+\newblock Providence, RI~: CBMS Regional Series in Math., 1964. "---
+\newblock Vol.~71.
+
+\bibitem{Glover84}
+\selectlanguageifdefined{english}
+\BibEmph{Glover~K.} All optimal Hankel-norm approximations of linear multi
+  variable systems and their $l_\infty$ error bounds~/ K.~Glover~//
+  \BibEmph{Int. J. Control}. "---
+\newblock 1984. "---
+\newblock Vol.~39. "---
+\newblock P.~1115--1193.
+
+\bibitem{GLR83}
+\selectlanguageifdefined{english}
+\BibEmph{Gohberg~I.} Matrices and indefinite inner products~/
+  I.~Gohberg, P.~Lancaster, L.~Rodman. "---
+\newblock Basel---Boston---Stuttgart~: Birkh\"auser Verlag, 1983.
+
+\bibitem{Grubb68}
+\selectlanguageifdefined{english}
+\BibEmph{Grubb~G.} A characteriz of the non-local boundary value problems
+  associated with an elliptic operator~/ G~Grubb~// \BibEmph{Ann. Scuola
+  Normale Superiore de Pisa}. "---
+\newblock 1968. "---
+\newblock Vol.~22. "---
+\newblock P.~425--513.
+
+\bibitem{ABDSs89}
+\selectlanguageifdefined{english}
+A Hilbert space associated with a Nevanlinna function~/ D.~Alpay,
+  P.~Bruinsma, A.~Dijksma, H.S.V.~de~Snoo~// Proceedings MTNS Meeting. "---
+\newblock Amsterdam~: [s.\ n.], 1989. "---
+\newblock P.~115--122.
+
+\bibitem{Khe90}
+\selectlanguageifdefined{english}
+\BibEmph{Kheifets~A.} Parseval equality in abstract interpolation problem and
+  coupling of open systems~/ A.~Kheifets~// \BibEmph{Journal of Soviet
+  Math.} "---
+\newblock 1990. "---
+\newblock Vol.~49. "---
+\newblock P.~1307---1310.
+
+\bibitem{Khe96}
+\selectlanguageifdefined{english}
+\BibEmph{Kheifets~A.} Hamburger moment problem: Parseval equality and
+  a-singularity~/ A.~Kheifets~// \BibEmph{J. Funct. Analysis}. "---
+\newblock 1996. "---
+\newblock Vol. 141. "---
+\newblock P.~374--420.
+
+\bibitem{KheYud94}
+\selectlanguageifdefined{english}
+\BibEmph{Kheifets~A.~Y.} An analysis and extension of V.~P.~Potapov's approach
+  to interpolation problems with applications to the generalized bitangential
+  Schur--Nevanlinna--Pick problem and $j$-inner-outer factorization~/
+  A.~Ya.~Kheifets, P.~M.~Yuditskii~// \BibEmph{Oper. Theory: Adv. Appl.} "---
+\newblock 1994. "---
+\newblock Vol.~72, no.~2. "---
+\newblock P.~133--161.
+
+\bibitem{KorSN57}
+\selectlanguageifdefined{english}
+\BibEmph{Koranui~A.} Relations d'un probleme de Nevanlinna et Pick avee la
+  theorie des operations de l'espace hilbertien~/ A.~Koranui,
+  B.~Sz.-Nagy. "---
+\newblock [S.\ l.]~: Akta Math. Sci. Hemg., 1957. "---
+\newblock Vol.~7.
+
+\bibitem{KL73}
+\selectlanguageifdefined{english}
+\BibEmph{Kre\u{\i}n~M.} Uber die $\emph{Q}$-function eines
+  $\pi$-Hermiteschen Operators im Raume $\pi_{\kappa}$
+ ~/ M.G.~Kre\u{\i}n, H.~Langer~// \BibEmph{Acta. Sci. Math. (Szeged)}.
+  "---
+\newblock 1973. "---
+\newblock Vol.~34. "---
+\newblock P.~191--230.
+
+\bibitem{KL77}
+\selectlanguageifdefined{english}
+\BibEmph{Kre\u{\i}n~M.} $\ddot{U}$ber einige Fortsetzungsprobleme, die
+  eng mit der Theorie Hermitscher Operatoren in
+  Raume $\pi_{\kappa}$ zusammenhangen, \emph{I}. Einige
+  Fuktionenklassen und ihre Dahrstellungen~/
+  M.G.~Kre\u{\i}n, H.~Langer~// \BibEmph{Math. Nachr.} "---
+\newblock 1977. "---
+\newblock Vol.~77. "---
+\newblock P.~187--236.
+
+\bibitem{KL78}
+\selectlanguageifdefined{english}
+\BibEmph{Kre\u{\i}n~M.} $\ddot{U}$ber einige Fortsetzungsprobleme, die
+  eng mit der Theorie Hermitscher Operatoren in
+  Raume $\pi_{\kappa}$ zusammenhangen, \emph{II}. verallgemeinerte
+  resolventen, $u$-resolventen und ganze operatoren~/ M.G.~Kre\u{\i}n,
+  H.~Langer~// \BibEmph{J. Funct. Analysis}. "---
+\newblock 1978. "---
+\newblock Vol.~3. "---
+\newblock P.~390--447.
+
+\bibitem{KL79}
+\selectlanguageifdefined{english}
+\BibEmph{Kre\u{\i}n~M.} On some extension problem which are closely connected
+  with the theory of Hermitian operators in a space $\pi_{\kappa}$ iii.
+  Indefinite analogues of the Hamburger and Stieltjes
+  moment problems, part i~/ M.G.~Kre\u{\i}n, H.~Langer~//
+  \BibEmph{Beitr{\"a}ge zur Anal}. "---
+\newblock 1979. "---
+\newblock Vol.~14, no. 25--40.
+
+\bibitem{KL81}
+\selectlanguageifdefined{english}
+\BibEmph{Kre\u{\i}n~M.} Some propositions of analytic matrix functions related
+  to the theory of operators in the space $\Pi_{\kappa}$~/
+  M.G.~Kre\u{\i}n, H.~Langer~// \BibEmph{Acta Sci.Math.Szeged}. "---
+\newblock 1981. "---
+\newblock Vol.~43. "---
+\newblock P.~181--205.
+
+\bibitem{Kup96}
+\selectlanguageifdefined{english}
+\BibEmph{Kupin~S.} Lifting theorem as a special case of abstract interpolation
+  problem~/ S.~Kupin~// \BibEmph{Zeitschrift fur Analysis und ihre
+  Anwendungen}. "---
+\newblock 1996. "---
+\newblock Vol.~15, no.~4. "---
+\newblock P.~789--798.
+
+\bibitem{LanTex77}
+\selectlanguageifdefined{english}
+\BibEmph{Langer~H.} On generalized resolvents and q-functions of symmetric
+  linear relations (subspaces) in Hilbert space~/ H.~Langer,
+  B.~Textorius~// \BibEmph{Pacific J. Math.} "---
+\newblock 1977. "---
+\newblock Vol.~72. "---
+\newblock P.~135--165.
+
+\bibitem{MM03}
+\selectlanguageifdefined{english}
+\BibEmph{Malamud~M.} Spectral theory of operator measures in Hilbert space
+ ~/ M.M.~Malamud, S.M.~Malamud~// \BibEmph{St.~-Petersburg Math.
+  Journal}. "---
+\newblock 2003. "---
+\newblock Vol.~15, no.~3. "---
+\newblock P.~1--77.
+
+\bibitem{vN32}
+\selectlanguageifdefined{english}
+\BibEmph{von Neumann~J.} Uber adjungierte operatoren~/ J~von~Neumann~//
+  \BibEmph{Ann. Math.} "---
+\newblock 1932. "---
+\newblock Vol.~33. "---
+\newblock P.~294--310.
+
+\bibitem{Neim11}
+\selectlanguageifdefined{english}
+\BibEmph{Neiman~E.} A functional model associated with a generalized
+  Nevanlinna pair~/ E.~Neiman~// \BibEmph{Journal of Mathematical
+  Sciences}. "---
+\newblock 2011. "---
+\newblock Vol. 174, no.~4. "---
+\newblock P.~469--480.
+
+\bibitem{Neim12}
+\selectlanguageifdefined{english}
+\BibEmph{Neiman~E.} Abstract interpolation problem in generalized Nevanlinna
+  classes~/ E.~Neiman~// \BibEmph{Methods Funct. Anal. Topology}. "---
+\newblock 2012. "---
+\newblock Vol.~18, no.~3. "---
+\newblock P.~266--287.
+
+\bibitem{Neim13}
+\selectlanguageifdefined{english}
+\BibEmph{Neiman~E.} Indefinite moment problem as an abstract interpolation
+  problem~/ E.~Neiman~// \BibEmph{Methods Funct. Anal. Topology}. "---
+\newblock 2013. "---
+\newblock Vol.~19, no.~2. "---
+\newblock P.~168--186.
+
+\bibitem{Neim15}
+\selectlanguageifdefined{english}
+\BibEmph{Neiman~E.} A generalized tangent interpolation problem~/
+  E.~Neiman~// \BibEmph{Journal of Mathematical Sciences}. "---
+\newblock 2015. "---
+\newblock Vol. 207, no.~1. "---
+\newblock P.~74--97.
+
+\bibitem{Nev29}
+\selectlanguageifdefined{english}
+\BibEmph{Nevanlinna~R.} Uber beschrankte analytischen funktionen~/
+  R.~Nevanlinna~// \BibEmph{Ann. Acad. Sci. Fenn., Ser. A.} "---
+\newblock 1929. "---
+\newblock Vol.~32. "---
+\newblock P.~1--75.
+
+\bibitem{Phi59}
+\selectlanguageifdefined{english}
+\BibEmph{Phillips~R.} Dissipative operators and hyperbolic systems of partial
+  differential equations~/ R.S.~Phillips~// \BibEmph{Trans. Amer. Math.
+  Soc.} "---
+\newblock 1959. "---
+\newblock Vol.~90. "---
+\newblock P.~193--254.
+
+\bibitem{Pick16}
+\selectlanguageifdefined{english}
+\BibEmph{Pick~G.} Uber die beschrankungen analytischen funktionen, welche
+  durch vorgegebene funktionswerte bewirkt werden~/ G.~Pick~//
+  \BibEmph{Math. Ann.} "---
+\newblock 1916. "---
+\newblock Vol.~77, no.~1. "---
+\newblock P.~7--23.
+
+\bibitem{Schur18}
+\selectlanguageifdefined{english}
+\BibEmph{Schur~I.} Uber potenzreihen, die im inner des einheitskreises
+  beschrankt sind~/ I.~Schur~// \BibEmph{J. reine angew. Math.} "---
+\newblock 1918. "---
+\newblock Vol. 148. "---
+\newblock P.~122--145.
+
+\bibitem{Stone32}
+\selectlanguageifdefined{english}
+\BibEmph{Stone~M.} Linear transformations in Hilbert space and their
+  applications to analysis~/ M.H.~Stone. "---
+\newblock New York.~: Amer. Math. Soc. Colloquium Publ., 1932. "---
+\newblock Vol.~15.
+
+\bibitem{VidKim86}
+\selectlanguageifdefined{english}
+\BibEmph{Vidyasagar~M.} Robust controllers for uncertain linear multivariable
+  systems~/ M.~Vidyasagar, H.~Kimura~// \BibEmph{Automatica}. "---
+\newblock 1986. "---
+\newblock Vol.~22. "---
+\newblock P.~85--94.
+
+\end{thebibliography}

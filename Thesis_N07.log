@@ -1,0 +1,504 @@
+This is TeX, Version 3.141592 (MiKTeX 2.3) (preloaded format=latex 2000.11.28)  12 MAR 2017 01:37
+**Thesis_N07.tex
+(Thesis_N07.tex
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for english, french, german, ngerman, ru
+ssian, dumylang, nohyphenation, loaded.
+(C:\texmf\tex\latex\base\article.cls
+Document Class: article 2001/04/21 v1.4e Standard LaTeX document class
+(C:\texmf\tex\latex\base\size12.clo
+File: size12.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (C:\texmf\tex\latex\tools\hhline.sty
+Package: hhline 1994/05/23 v2.03 Table rule package (DPC)
+)
+(C:\texmf\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(C:\texmf\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(C:\texmf\tex\latex\base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 42.
+) (C:\texmf\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(C:\texmf\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+ (C:\texmf\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen103
+)) (C:\texmf\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(C:\texmf\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+) (C:\texmf\tex\latex\amscls\amsthm.sty
+Package: amsthm 2000/10/26 v2.08
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks25
+) (C:\texmf\tex\latex\base\inputenc.sty
+Package: inputenc 2001/07/10 v0.99a Input encoding file 
+ (C:\texmf\tex\latex\cyrillic\cp1251.def
+File: cp1251.def 1999/11/16 v1.0d Input encoding file
+)) (C:\texmf\tex\latex\base\fontenc.sty
+Package: fontenc 2001/06/05 v1.94 Standard LaTeX package
+ (C:\texmf\tex\latex\cyrillic\t2aenc.def
+File: t2aenc.def 2001/08/11 v1.0f Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 95.
+(C:\texmf\tex\latex\cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)) (C:\texmf\tex\generic\Babel\babel.sty
+Package: babel 2001/03/01 v3.7h The Babel package
+
+(C:\texmf\tex\generic\Babel\russianb.ldf
+Language: russianb 2001/02/21 v1.1n Russian support from the babel system
+ (C:\texmf\tex\generic\Babel\babel.def
+File: babel.def 2001/03/01 v3.7h Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen112
+)
+LaTeX Info: Redefining \latintext on input line 118.
+LaTeX Info: Redefining \textlatin on input line 123.
+Package babel Info: Making " an active character on input line 188.
+))
+\@indexfile=\write3
+
+Writing index file Thesis_N07.idx
+(C:\texmf\tex\latex\amsfonts\euscript.sty
+Package: euscript 2001/10/01 v2.2d Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 55.
+)
+(C:\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+ (C:\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (C:\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2003/03/12 v1.1 MiKTeX 'graphics' configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 80.
+
+(C:\texmf\tex\latex\graphics\dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(C:\texmf\tex\latex\fancyhdr\fancyhdr.sty
+\headwidth=\dimen113
+) (setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (extsizes.sty
+Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
+
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+))
+\c@theorem=\count100
+ (Thesis_N07.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 267.
+LaTeX Font Info:    ... okay on input line 267.
+ [1
+
+] (Thesis_N07.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+
+(C:\texmf\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+ (C:\texmf\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 5.
+
+(C:\texmf\tex\latex\base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2])
+\tf@toc=\write4
+ [3]
+LaTeX Font Info:    Try loading font information for U+euf on input line 418.
+ (C:\texmf\tex\latex\amsfonts\ueuf.fd
+File: ueuf.fd 2002/01/19 v2.2g AMS font definitions
+) [4] [5] [6]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 525.
+
+
+(C:\texmf\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 525.
+ [7] [8] [9] [10] [11] [12]
+Underfull \hbox (badness 7907) in paragraph at lines 830--830
+[]\T2A/cmr/bx/n/17.28 Клас стис-ка-ю-чих функ-цiй. До-бу-ток Бляшке-
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 874--877
+[][]\T2A/cmr/m/n/14.4 Прикладом внут-рiш-ньоЁ мат-рич-ноЁ функ-цiЁ № множ-ник Б
+ляшке-
+ []
+
+[13] [14] [15] [16] [17] [18] [19] [20]
+Underfull \hbox (badness 4752) in paragraph at lines 1366--1371
+[][]\T2A/cmr/m/n/14.4 Як вип-ли-ва№ з Тео-ре-ми 1.7[] опис усiх розв'язкiв $\OM
+L/cmm/m/it/14.4 m$ \T2A/cmr/m/n/14.4 про-бле-ми
+ []
+
+[21]
+Underfull \hbox (badness 1215) in paragraph at lines 1395--1398
+\T2A/cmr/bx/n/14.4 Теорема 1.8. []\T2A/cmr/m/it/14.4 Нехай опе-ра-то-ри $\OML/c
+mm/m/it/14.4 B[]; B[]; C[]; C[]; K$ \T2A/cmr/m/it/14.4 за-до-воль-ня-ють умо-ви
+
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 1401--1406
+[]\T2A/cmr/m/it/14.4 встановлю№ вза-№м-но од-но-знач-ну вiд-по-вiд-нiсть мiж мн
+о-жи-ною усiх
+ []
+
+[22] [23] [24] [25]
+Underfull \hbox (badness 1755) in paragraph at lines 1553--1556
+\T2A/cmr/bx/n/14.4 Означення 2.1. []\T2A/cmr/m/it/14.4 Клас $\OML/cmm/m/it/14.4
+ N[]\OT1/cmr/m/n/14.4 (\OMS/cmsy/m/n/14.4 L\OT1/cmr/m/n/14.4 )$ \T2A/cmr/m/it/1
+4.4 № мно-жи-ною ме-ро-морф-них в $\U/msb/m/n/14.4 C[] \OMS/cmsy/m/n/14.4 [ \U/
+msb/m/n/14.4 C[]$
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 1588--1596
+[][]\T2A/cmr/m/n/14.4 Двi $\OML/cmm/m/it/14.4 N[]$\T2A/cmr/m/n/14.4 -пари $\OMS
+/cmsy/m/n/14.4 f\OT1/cmr/m/n/14.4 \OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 	\OMS
+/cmsy/m/n/14.4 g$ \T2A/cmr/m/n/14.4 i $\OMS/cmsy/m/n/14.4 f\OT1/cmr/m/n/14.4 [
+]\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 	[]\OMS/cmsy/m/n/14.4 g$ \T2A/cmr/m/n/1
+4.4 на-зи-ва-ють-ся еквi-ва-лент-ни-ми, як-що
+ []
+
+[26] [27] [28] [29] [30]
+Overfull \hbox (34.7584pt too wide) detected at line 1943
+[] []
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 1978--1981
+\T2A/cmr/bx/n/14.4 Зауваження 2.8. []\T2A/cmr/m/it/14.4 З фор-му-ли [] вип-ли-в
+а№, що лiнiйне вiд-но-шен-ня
+ []
+
+[31] [32] [33] [34] [35] [36] [37] [38]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 255
+6.
+ (C:\texmf\tex\latex\cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [39]
+Underfull \hbox (badness 2495) in paragraph at lines 2624--2628
+[]\T2A/cmr/m/n/14.4 Це озна-ча№, що лiнiйне вiд-но-шен-ня $\OML/cmm/m/it/14.4 G
+$ \T2A/cmr/m/n/14.4 визна-чене фор-му-лою [] №
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 2629--2631
+[][]\T2A/cmr/m/n/14.4 Легко ба-чи-ти, що з умо-ви са-мо-спря-же-но-стi лiнiй-но
+-го вiд-но-шен-ня
+ []
+
+[40] [41] [42] [43]
+Overfull \hbox (3.83376pt too wide) detected at line 2876
+[] []
+ []
+
+[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
+[59] [60] [61] [62] [63] [64] [65] [66] [67] [68]
+Underfull \hbox (badness 3557) in paragraph at lines 4741--4746
+[][]\T2A/cmr/m/n/14.4 Як вип-ли-ва№ з Тео-ре-ми 3.19[] опис усiх розв'язкiв $\O
+ML/cmm/m/it/14.4 m$ \T2A/cmr/m/n/14.4 про-бле-ми
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 4755--4760
+[]\T2A/cmr/m/it/14.4 встановлю№ вза-№м-но од-но-знач-ну вiд-по-вiд-нiсть мiж мн
+о-жи-ною усiх
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 4771--4773
+[][]\T2A/cmr/m/n/14.4 Нехай па-ра $\OMS/cmsy/m/n/14.4 f\OML/cmm/m/it/14.4 ';  \
+OMS/cmsy/m/n/14.4 g$ \T2A/cmr/m/n/14.4 № розв'язком про-бле-ми
+ []
+
+[70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83]
+Underfull \hbox (badness 1448) in paragraph at lines 5575--5579
+\T2A/cmr/bx/n/14.4 Теорема 4.12. []\T2A/cmr/m/it/14.4 Нехай $\OMS/cmsy/m/n/14.4
+ f\OML/cmm/m/it/14.4 s[]\OMS/cmsy/m/n/14.4 g 2 \OML/cmm/m/it/14.4 H[]$\T2A/cmr/
+m/it/14.4 , опе-ра-то-ри $\OML/cmm/m/it/14.4 B[]; B[]; C[]; C[]; K$ \T2A/cmr/m/
+it/14.4 визна-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5575--5579
+\T2A/cmr/m/it/14.4 ченi фор-му-ла-ми []. То-дi функ-цiя $\OML/cmm/m/it/14.4 m$ 
+\T2A/cmr/m/it/14.4 № розв'язком про-бле-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5582--5589
+[][]\T2A/cmr/m/it/14.4 Необхiднiсть\T2A/cmr/m/n/14.4 . Нехай $\OML/cmm/m/it/14.
+4 m \OMS/cmsy/m/n/14.4 2 \OML/cmm/m/it/14.4 N[]$ \T2A/cmr/m/n/14.4 № розв'язком
+
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 5582--5589
+\OML/cmm/m/it/14.4 AIP[]\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 B[]; B[]; C[]; C[
+]; K\OT1/cmr/m/n/14.4 )$\T2A/cmr/m/n/14.4 . З Про-по-зи-цiЁ 3.17[] вип-ли-ва№, 
+що вi-до-бра-жен-ня
+ []
+
+[84] [85] [86]
+Overfull \hbox (7.30879pt too wide) detected at line 5745
+[] []
+ []
+
+[87] [88]
+Underfull \hbox (badness 1661) in paragraph at lines 5858--5858
+[]\T2A/cmr/bx/n/14.4 Опис розв'язкiв про-бле-ми $\OML/cmm/m/it/14.4 MP[]\OT1/cm
+r/m/n/14.4 (\OT1/cmr/bx/n/14.4 s\OT1/cmr/m/n/14.4 )$ \T2A/cmr/bx/n/14.4 у фор-м
+i Деревягiна-
+ []
+
+[89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+Underfull \hbox (badness 10000) in paragraph at lines 6695--6697
+\T2A/cmr/bx/n/14.4 Теорема 5.18. []\T2A/cmr/m/it/14.4 Мно-жи-ни розв'язкiв про-
+блем $\OML/cmm/m/it/14.4 GTIP\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 ; '[]; '[]\
+OT1/cmr/m/n/14.4 )$ \T2A/cmr/m/it/14.4 i
+ []
+
+[103]
+Underfull \hbox (badness 5119) in paragraph at lines 6731--6736
+[][]\T2A/cmtt/m/n/14.4 Крок 2. \T2A/cmr/m/n/14.4 Нехай функ-цiя $\OML/cmm/m/it/
+14.4 " \OMS/cmsy/m/n/14.4 2 S[]$ \T2A/cmr/m/n/14.4 -- це розв'язок про-бле-ми
+ []
+
+[104] [105]
+Underfull \hbox (badness 1533) in paragraph at lines 6881--6884
+\T2A/cmr/m/it/14.4 № обо-рот-ною мат-ри-цею, то дру-гий ранг невизна-че-но-стi 
+$\OML/cmm/m/it/14.4 d[]$ \T2A/cmr/m/it/14.4 про-бле-ми
+ []
+
+[106] [107] [108] [109]
+Underfull \hbox (badness 5446) in paragraph at lines 7137--7144
+[][]\T2A/cmr/m/n/14.4 Формула [] вип-ли-ва№ з опи-су розв'язкiв про-бле-ми
+ []
+
+[110] [111]
+Underfull \hbox (badness 2980) in paragraph at lines 7203--7207
+\T2A/cmr/bx/n/14.4 Зауваження 5.33. []\T2A/cmr/m/it/14.4 Мно-жи-на усiх ви-нят-
+ко-вих па-ра-мет-рiв про-бле-ми
+ []
+
+[112] [113] [114] [115] [116]
+Underfull \hbox (badness 5274) in paragraph at lines 7552--7555
+[][]\T2A/cmr/m/n/14.4 Покажемо, що фор-му-ла [], яка опи-су№ розв'язок про-бле-
+ми
+ []
+
+[117] [118] [119] [120] [121]
+Underfull \hbox (badness 1062) in paragraph at lines 7825--7831
+\T2A/cmr/m/n/14.4 роз-г-ля-не-мо уза-галь-не-ну до-тич-ну про-бле-му $\OML/cmm/
+m/it/14.4 GTIP\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 ; '[]; '[]\OT1/cmr/m/n/14.
+4 )$\T2A/cmr/m/n/14.4 . В про-бле-мi
+ []
+
+[122] [123] [124] [125] (Thesis_N07.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 22--28
+[][]\T2A/cmr/m/n/14.4 Аров Д.З. Обоб-щен-ная би-ка-са-тель-ная про-бле-ма Карат
+еодори-
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 39--42
+[][]\T2A/cmr/m/n/14.4 Ахиезер Н.И. Клас-си-че-ская про-бле-ма мо-мен-тов / Н.И.
+ Ахи-е-зер. 
+ []
+
+[126] [127]
+Underfull \hbox (badness 10000) in paragraph at lines 253--258
+[][]\T2A/cmr/m/n/14.4 Федчина И.П. Кри-те-рий раз-ре-ши-мо-сти ка-са-тель-ной п
+ро-бле-мы
+ []
+
+[128]
+Underfull \hbox (badness 1371) in paragraph at lines 315--321
+[][]\T2A/cmr/m/n/14.4 Amirshadyan A. Interpolation in generalized Nevanlinna an
+d Stieltjes
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 364--369
+[][]\T2A/cmr/m/n/14.4 Ball J. The abstract Interpolation problem and commutant 
+lifting: a
+ []
+
+[129]
+Underfull \hbox (badness 3098) in paragraph at lines 388--394
+[][]\T2A/cmr/m/n/14.4 Bolotnikov V. On the Caratheodory-Fejer interpolation p
+roblem for
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 430--436
+[][]\T2A/cmr/m/n/14.4 de Branges L. Canonical models in quantum scattering theo
+ry /
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 439--445
+[][]\T2A/cmr/m/n/14.4 Derevyagin M. Spectral problems for generalized Jacobi ma
+trices /
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 473--480
+[][]\T2A/cmr/m/n/14.4 Derkach V. Abstract interpolation problem in Nevanlinna c
+lasses  /
+ []
+
+[130]
+Underfull \hbox (badness 1769) in paragraph at lines 529--535
+[][]\T2A/cmr/m/n/14.4 Derkach V. Truncated moment problems in the class of gene
+ralized
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 538--544
+[][]\T2A/cmr/m/n/14.4 Derkach V. On Weyl function and Hermitian operators with 
+gaps /
+ []
+
+[131]
+Underfull \hbox (badness 1496) in paragraph at lines 597--601
+[][]\T2A/cmr/m/n/14.4 A Hilbert space associated with a Nevanlinna function / D
+. Alpay,
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 613--618
+[][]\T2A/cmr/m/n/14.4 Kheifets A. Hamburger moment problem: Parseval equality a
+nd a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--628
+\T2A/cmr/m/n/14.4 Schur--Nevanlinna--Pick problem and $\OML/cmm/m/it/14.4 j$\T2
+A/cmr/m/n/14.4 -inner-outer factorization /
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 649--657
+\T2A/cmr/m/n/14.4 Hermitscher Operatoren in Raume $\OML/cmm/m/it/14.4 []$ \T2A
+/cmr/m/n/14.4 zusammenhangen, \T2A/cmr/m/it/14.4 I\T2A/cmr/m/n/14.4 . Einige
+ []
+
+[132] [133]) [134] (Thesis_N07.aux) ) 
+Here is how much of TeX's memory you used:
+ 3456 strings out of 95835
+ 35593 string characters out of 1195118
+ 88012 words of memory out of 1081951
+ 6195 multiletter control sequences out of 35000
+ 37594 words of font info for 105 fonts, out of 500000 for 1000
+ 198 hyphenation exceptions out of 607
+ 27i,17n,43p,1225b,513s stack positions out of 1500i,500n,5000p,200000b,32768s
+
+Output written on Thesis_N07.dvi (134 pages, 574200 bytes).
